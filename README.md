@@ -3,6 +3,7 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fblockchain-wallet-v4-frontend.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fblockchain-wallet-v4-frontend?ref=badge_shield)
 
 # Blockchain Wallet v4
 Be Your Own Bank at [blockchain.info/wallet](https://blockchain.info/wallet).
@@ -154,3 +155,7 @@ Security issues can be reported to us in the following venues:
 
 * Email: security@blockchain.info
 * Bug Bounty: https://hackerone.com/blockchain
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fblockchain-wallet-v4-frontend.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fblockchain-wallet-v4-frontend?ref=badge_large)
